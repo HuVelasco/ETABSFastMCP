@@ -17,7 +17,7 @@ namespace ETABSConnector.Core
         private bool _isConnected;
 
         public bool IsConnected => _isConnected && _sapModel != null;
-        public cSapModel? SapModel => _sapModel;
+        public cSapModel SapModel => _sapModel ?? throw new InvalidOperationException("Not connected to ETABS");
 
         /// <summary>
         /// Connect to ETABS application

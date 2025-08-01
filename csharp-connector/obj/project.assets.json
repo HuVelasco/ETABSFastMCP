@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugov\\ClaudeProjects\\2503_TeklaMCP\\TeklaMCP.HttpServer\\ETABSFastMCP\\csharp-connector\\ETABSConnector.csproj",
+      "projectUniqueName": "C:\\Users\\hugov\\ClaudeProjects\\ETABSFastMCP\\csharp-connector\\ETABSConnector.csproj",
       "projectName": "ETABSConnector",
-      "projectPath": "C:\\Users\\hugov\\ClaudeProjects\\2503_TeklaMCP\\TeklaMCP.HttpServer\\ETABSFastMCP\\csharp-connector\\ETABSConnector.csproj",
+      "projectPath": "C:\\Users\\hugov\\ClaudeProjects\\ETABSFastMCP\\csharp-connector\\ETABSConnector.csproj",
       "packagesPath": "C:\\Users\\hugov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugov\\ClaudeProjects\\2503_TeklaMCP\\TeklaMCP.HttpServer\\ETABSFastMCP\\csharp-connector\\obj\\",
+      "outputPath": "C:\\Users\\hugov\\ClaudeProjects\\ETABSFastMCP\\csharp-connector\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

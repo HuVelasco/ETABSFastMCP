@@ -47,6 +47,13 @@ namespace ETABSConnector.Core
         {
             _error.WriteLine("ETABS Connector started. Waiting for commands...");
 
+            // Test some fuctions as the commands giev error:
+            _connectionManager.Connect(true);
+            _connectionManager.Connect(false);
+            _connectionManager.GetStatus();
+            _connectionManager.CreateBlankModel();
+
+
             try
             {
                 string? line;

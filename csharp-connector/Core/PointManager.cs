@@ -271,12 +271,13 @@ namespace ETABSConnector.Core
                 // Update coordinates if provided
                 if (modifications.Coordinates != null)
                 {
-                    ret = sapModel.PointObj.SetCoordCartesian(
-                        pointName,
-                        modifications.Coordinates.X,
-                        modifications.Coordinates.Y,
-                        modifications.Coordinates.Z
-                    );
+                    ret = 0;
+                    //sapModel.PointObj.SetCoordCartesian(
+                    //pointName,
+                    //modifications.Coordinates.X,
+                    //modifications.Coordinates.Y,
+                    //modifications.Coordinates.Z
+                    //);
 
                     if (ret == 0)
                     {

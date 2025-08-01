@@ -1,2 +1,12 @@
 C:\Users\hugov\ClaudeProjects\2503_TeklaMCP\TeklaMCP.HttpServer\ETABSFastMCP\csharp-connector\obj\Debug\ETABSConnector.csproj.AssemblyReference.cache
 C:\Users\hugov\ClaudeProjects\2503_TeklaMCP\TeklaMCP.HttpServer\ETABSFastMCP\csharp-connector\obj\Debug\ETABSConnector.csproj.CoreCompileInputs.cache
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\obj\Debug\ETABSConnector.csproj.AssemblyReference.cache
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\obj\Debug\ETABSConnector.csproj.CoreCompileInputs.cache
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\bin\Debug\ETABSConnector.exe.config
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\bin\Debug\ETABSConnector.exe
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\bin\Debug\ETABSConnector.pdb
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\bin\Debug\ETABSv1.dll
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\obj\Debug\ETABSConnector.csproj.CopyComplete
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\obj\Debug\ETABSConnector.exe
+C:\Users\hugov\ClaudeProjects\ETABSFastMCP\csharp-connector\obj\Debug\ETABSConnector.pdb
