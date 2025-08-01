@@ -1,0 +1,2 @@
+C:\Users\hugov\ClaudeProjects\2503_TeklaMCP\TeklaMCP.HttpServer\ETABSFastMCP\csharp-connector\obj\Debug\ETABSConnector.csproj.AssemblyReference.cache
+C:\Users\hugov\ClaudeProjects\2503_TeklaMCP\TeklaMCP.HttpServer\ETABSFastMCP\csharp-connector\obj\Debug\ETABSConnector.csproj.CoreCompileInputs.cache

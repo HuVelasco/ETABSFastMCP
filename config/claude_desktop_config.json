@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "etabs-structural": {
+      "command": "python",
+      "args": [
+        "C:\\Users\\hugov\\ClaudeProjects\\2503_TeklaMCP\\TeklaMCP.HttpServer\\ETABSFastMCP\\python-server\\etabs_server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "C:\\Users\\hugov\\ClaudeProjects\\2503_TeklaMCP\\TeklaMCP.HttpServer\\ETABSFastMCP\\python-server"
+      }
+    }
+  }
+}
